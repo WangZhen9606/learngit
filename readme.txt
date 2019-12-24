@@ -17,3 +17,4 @@ Ps：该架构并非最终架构，只是本人在没有任何网络编程经验
 	通过阅读微信公众开发平台相关文档，了解到个人订阅号是不能主动发送消息的，原先设计的部分功能将没有实施条件，比如提醒服务。
 
 本行作为git版本回退测试,understand how stage works, git tracks change of files
+:测试git默认用户名
